@@ -1,16 +1,11 @@
-# chat_app_with_firebase
 
-A new Flutter project.
+# chat_app_with_firebase 
+A simple chat app named Walkie using Flutter and Firebase for android
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/fariza122/ChatApp-flutter/assets/67227952/226fc4b0-0724-4cb4-9134-3c90d36736b6
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Feel free to customize it as you want. Add more features and make it look more attractive.
+
